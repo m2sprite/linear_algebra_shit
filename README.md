@@ -1,4 +1,4 @@
 # LINEAR ALGEBRA TYPES AND OPS
 
 ##### TODO
-** implement gaussjordan
+- implement gauss jordan elimination
