@@ -20,7 +20,7 @@ int main(void)
   f64_mat B = mat_f64_alloc(3,3);
   f64_mat_fill_rand( &B , 100.0f);
   f64_mat_print( B );
-  f64_swap_rows(&B, 3, 4);
+  f64_swap_rows(&B, 2, 3);
   f64_mat_print( B );
 
   return(0);
